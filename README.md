@@ -6,4 +6,4 @@ A self-built control system for calculating the ground-based cloud cover observa
 
 A demo webpage snapshot can be found below:
 
-![](https://ws1.sinaimg.cn/large/73ebdc71gy1fvft2b66kbj20u10ga4e7.jpg)
+![33nVc8.jpg](https://s2.ax1x.com/2020/02/23/33nVc8.jpg)
