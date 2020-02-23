@@ -18,4 +18,4 @@ A self-built control system for calculating the ground-based cloud cover observa
 
 * The roaming system extended developed from Stallerium:
 
-![33nyjO.jpg](https://s2.ax1x.com/2020/02/23/33nyjO.jpg)](https://imgchr.com/i/33nyjO)
+![33nyjO.jpg](https://s2.ax1x.com/2020/02/23/33nyjO.jpg)
